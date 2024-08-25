@@ -1,6 +1,6 @@
 # 💫UI-Design-Resources
 
-Some Important Design resources for amazing UI Design Ispiration.
+Some Important Design resources for amazing UI Design inspiration.
 
 ### 💻Website Design Resources
 - **Design** : [see-saw](https://www.seesaw.website/)
