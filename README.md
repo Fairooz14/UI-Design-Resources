@@ -10,6 +10,7 @@ Some Important Design resources for amazing UI Design inspiration.
 - **Design** : [Mobile Design](https://mobbin.com/?via=abraham)
 - **Icons**  : [Huge Icon](https://hugeicons.com/)
 - **Design and Icons** : [App Shots](https://appshots.design/)
+- **Other Apps' Features** : [The App Fuel](https://www.theappfuel.com/)
 
 ### 🪄Development and Design 
 - **Components** : [Component Gallery](https://component.gallery/)
