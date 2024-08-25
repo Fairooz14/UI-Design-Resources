@@ -17,6 +17,7 @@ Some Important Design resources for amazing UI Design inspiration.
 - **Fonts 1** : [Free Faces](https://www.freefaces.gallery/)
 - **Fonts 2** : [Font Share](https://fontshare.com/)
 - **Illustration** : [Pixel](https://pixels.market/)
+- **Color** : [Randoma11y](https://randoma11y.com/)
 
 ### ✨Inspiring Projects
 - **Portfolio** : [Jose Ocando](https://www.joseocando.com/)
