@@ -21,3 +21,6 @@ Some Important Design resources for amazing UI Design inspiration.
 
 ### ✨Inspiring Projects
 - **Portfolio** : [Jose Ocando](https://www.joseocando.com/)
+
+  <hr>
+  ⭐Star it to get the update! Comming Soon!
