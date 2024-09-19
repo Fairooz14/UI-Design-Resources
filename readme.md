@@ -18,6 +18,7 @@ Some Important Design resources for amazing UI Design inspiration.
 - **Fonts 2** : [Font Share](https://fontshare.com/)
 - **Illustration** : [Pixel](https://pixels.market/)
 - **Color** : [Randoma11y](https://randoma11y.com/)
+- **App Dev & UI** : [Material Design][https://m3.material.io/]
 
 ### ✨Inspiring Projects
 - **Portfolio** : [Jose Ocando](https://www.joseocando.com/)
