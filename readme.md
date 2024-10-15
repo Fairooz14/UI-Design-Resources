@@ -11,6 +11,7 @@ Some Important Design resources for amazing UI Design inspiration.
 - **Icons**  : [Huge Icon](https://hugeicons.com/)
 - **Design and Icons** : [App Shots](https://appshots.design/)
 - **Other Apps' Features** : [The App Fuel](https://www.theappfuel.com/)
+- **Basic App Design** : [JotForm](https://www.jotform.com/app-templates/)
 
 ### 🪄Development and Design 
 - **Components** : [Component Gallery](https://component.gallery/)
